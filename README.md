@@ -7,7 +7,7 @@ This project uses an **ESP32** microcontroller to connect to WiFi, fetch age pre
 ## 🛠️ Hardware Components
 
 - ESP32 Development Board  
-- I2C 16x2 LCD Display (I2C address `0x27`)  
+- I2C 16x2 LCD Display (I2C address `0x27`) 
 - Micro USB Cable  
 - WiFi Connection (Tested on Wokwi Emulator)
 
